@@ -20,3 +20,5 @@ Scene 2:
 
 Scene 3:
 ![scene3](https://user-images.githubusercontent.com/61937712/141523215-23b7a7ea-2cc5-42f5-9e41-b70c72d05461.png)
+
+[Image Target](https://github.com/halimekuvel/Augmented-Reality-HW1/blob/main/Assets/Media/image%20target.jpeg)
